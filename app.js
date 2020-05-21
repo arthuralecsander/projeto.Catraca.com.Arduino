@@ -11,14 +11,14 @@ require("firebase/firestore");
 
 // TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyBRZZPL8J1QhEA46l3JoJnj36_9y5SWGRI",
-    authDomain: "iot-rfid-ceub.firebaseapp.com",
-    databaseURL: "https://iot-rfid-ceub.firebaseio.com",
-    projectId: "iot-rfid-ceub",
-    storageBucket: "iot-rfid-ceub.appspot.com",
-    messagingSenderId: "753004024578",
-    appId: "1:753004024578:web:1af627ac6a4c89da44281b",
-    measurementId: "G-DHSYLVDDTE"
+    apiKey: "[Hidden]",
+    authDomain: "[Hidden]",
+    databaseURL: "[Hidden]",
+    projectId: "[Hidden]",
+    storageBucket: "[Hidden]",
+    messagingSenderId: "[Hidden]",
+    appId: "[Hidden]",
+    measurementId: "[Hidden]"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
